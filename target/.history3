@@ -1,0 +1,9 @@
+1681962626351:sbt
+1681962637352:compile
+1681962960291:runMain com/sbt_test_project.Main
+1681962993767:runMain com.sbt_test_project.Main
+1681963119127:~compile
+1681963315516:compile
+1681963346405:compilr
+1681963349620:compile
+1681963496925:runMain com.sbt_test_project.Main
