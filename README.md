@@ -1,4 +1,6 @@
-# sbt_test_project 🚀
+# SBT Test Project 🚀
+
+![](CoverImage.png)
 
 ## Overview 🌐
 
